@@ -7,5 +7,8 @@
 ![Image of Yaktocat](https://pbs.twimg.com/profile_images/1390824424484610050/Wp2GC303_400x400.jpg)
 
 ``` javascript
-var myVar = "Hello, world!";
+var myVar = "AGUANTE FERROOOOOOOOOOOOOOOO ";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
